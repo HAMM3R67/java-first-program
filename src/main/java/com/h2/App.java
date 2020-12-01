@@ -11,7 +11,6 @@ public class App
         System.out.println( "Hello World!" );
     }
 
-    public static int doubleTheNumber(int number) {
-        return -1;
+    public static int doubleTheNumber(int number) { return number*2;
     }
 }
